@@ -368,7 +368,6 @@ Proyek ini memungkinkan monitoring kapal secara real-time dengan integrasi antar
 
 ---
 
-Markdown ini akan terlihat menarik di GitHub dengan gambar preview, tabel langkah pengujian, dan struktur yang terorganisir! 🚢
 
 <div>⁂</div>
 
